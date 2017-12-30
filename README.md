@@ -11,3 +11,8 @@ Demo : http://codepen.io/T-P/full/MyNjOO/
 + Gif Logo made using <a href="http://formtypemaker.appspot.com/" title="Form Type Maker">Form Type Maker</a> from <a href="https://github.com/romannurik/FORMTypeMaker" title="romannurik">romannurik</a>
 
 + Icons by [Google](https://material.io/icons/)
+
+## License
+Copyright (c) 2016-2018 Tirth Patel
+
+This code is distributed under [MIT license](https://github.com/piedcipher/mDash/blob/master/LICENSE).
